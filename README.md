@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Data scientist</h1>
+<h1 align="center">Bonjour 👋, Je suis Etienne</h1>
 <h3 align="center">Data scientist | Ingénierie de données et Business Intelligence</h3>
 
 - 📫 How to reach me **etiennesenef1@gmail.com**
